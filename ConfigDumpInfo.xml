@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ОстаткиРыб" id="22f6d1f7-b907-4431-991d-aadb2df86ca4" configVersion="4bc93824c99f9b4f9a7761be7283ea4700000000">
+			<Metadata name="AccumulationRegister.ОстаткиРыб.Resource.Сумма" id="0a19319d-0d3d-4472-b633-27c88e4f927e"/>
+			<Metadata name="AccumulationRegister.ОстаткиРыб.Dimension.Аквариум" id="0c46bea3-4210-4d65-bd2b-b0ae39104105"/>
+			<Metadata name="AccumulationRegister.ОстаткиРыб.Dimension.ПородаРыб" id="988bc08a-e705-4e86-bb53-5c429de3d854"/>
+			<Metadata name="AccumulationRegister.ОстаткиРыб.Resource.Количество" id="d752d83b-f29c-4db3-902e-891d462890b5"/>
+		</Metadata>
+		<Metadata name="Catalog.Аквариум" id="8a11b088-a965-4e84-bf82-a2181ce8fe21" configVersion="95822e508a12054888c476009cc0505f00000000"/>
+		<Metadata name="Catalog.ПородаРыб" id="de08d172-a6cd-4d9e-b94f-ed8144d509b6" configVersion="5b8005a2c549874797c165abae2c380500000000"/>
+		<Metadata name="Configuration.Конфигурация" id="78c7bacf-cb42-4878-a49a-f51ac2cdd5ae" configVersion="dbcf817a99c8dc4084ded0ddf16e40f500000000"/>
+		<Metadata name="Document.ПокупкаКорма" id="c05daf4a-9652-427a-aaaa-e484a6dbf1de" configVersion="147357eae5a7624792552f7ad32ebf8000000000">
+			<Metadata name="Document.ПокупкаКорма.Attribute.СтоимостьКорма" id="7bc82f47-c88e-4890-8dab-d426745d2c1f"/>
+			<Metadata name="Document.ПокупкаКорма.Attribute.Аквариум" id="c95ba6e4-51a8-433b-81b6-0482c416ecae"/>
+		</Metadata>
+		<Metadata name="Document.ПокупкаКорма.ObjectModule" id="c05daf4a-9652-427a-aaaa-e484a6dbf1de.0" configVersion="c514361985c7474aa765c8793dfc569a00000000"/>
+		<Metadata name="Document.ПокупкаРыб" id="3a12f2ed-e33e-4ab7-973f-6a6f8abbcc7a" configVersion="729870f227e6a74a8d7d64443c754a4200000000">
+			<Metadata name="Document.ПокупкаРыб.TabularSection.Рыбы.Attribute.ЦенаПокупки" id="43973e33-da7b-4f0f-8b1b-016f884d70a2"/>
+			<Metadata name="Document.ПокупкаРыб.TabularSection.Рыбы.Attribute.ПородаРыб" id="67c08ed4-35b7-4986-84bf-55c7f0cdeddf"/>
+			<Metadata name="Document.ПокупкаРыб.TabularSection.Рыбы.Attribute.Аквариум" id="795fae66-fceb-4795-9f68-1480c248e62d"/>
+			<Metadata name="Document.ПокупкаРыб.TabularSection.Рыбы" id="9e1e2d31-74d7-4080-9980-2fa57e94ea2a"/>
+			<Metadata name="Document.ПокупкаРыб.TabularSection.Рыбы.Attribute.Сумма" id="d7cfcfab-6747-4d1a-b49b-2483e594a618"/>
+			<Metadata name="Document.ПокупкаРыб.TabularSection.Рыбы.Attribute.Количество" id="f4aa6742-84b7-469d-a993-5ae0faa87619"/>
+		</Metadata>
+		<Metadata name="Document.ПокупкаРыб.Form.ФормаДокумента" id="a75f5570-9763-4ba5-b191-2f0db3ccc115" configVersion="0d3dcd1275f2604083fcc006acf5b4e400000000"/>
+		<Metadata name="Document.ПокупкаРыб.Form.ФормаДокумента.Form" id="a75f5570-9763-4ba5-b191-2f0db3ccc115.0" configVersion="6e724e854769434593ce1876339958ee00000000"/>
+		<Metadata name="Document.ПокупкаРыб.ObjectModule" id="3a12f2ed-e33e-4ab7-973f-6a6f8abbcc7a.0" configVersion="3558c06690fe3f45a0c53e797b5eb24600000000"/>
+		<Metadata name="Document.ПродажаРыб" id="f24815c6-e411-4b23-b530-6afa4c08f163" configVersion="71e8f5e6051a6e4bad5aa33fa2cc5f4d00000000">
+			<Metadata name="Document.ПродажаРыб.TabularSection.Рыбы" id="300794da-b8ce-4c69-b822-eb2c764581fa"/>
+			<Metadata name="Document.ПродажаРыб.TabularSection.Рыбы.Attribute.ПородаРыб" id="586fcf9a-b89c-4f13-8771-127ec0fc041e"/>
+			<Metadata name="Document.ПродажаРыб.TabularSection.Рыбы.Attribute.Количество" id="68e6beb3-2c69-424f-bb9c-caf22503a87e"/>
+			<Metadata name="Document.ПродажаРыб.TabularSection.Рыбы.Attribute.ЦенаПродажи" id="7349963c-aab3-436d-a6f0-8b8b8b2178f8"/>
+			<Metadata name="Document.ПродажаРыб.TabularSection.Рыбы.Attribute.Аквариум" id="c2b0d9af-5994-449a-a075-44902b8e6483"/>
+			<Metadata name="Document.ПродажаРыб.TabularSection.Рыбы.Attribute.Сумма" id="edd49cd2-0a90-41dd-a566-b6d19cc0d5db"/>
+		</Metadata>
+		<Metadata name="Document.ПродажаРыб.Form.ФормаДокумента" id="93b7138d-30c6-4bd2-b0eb-3a9993b31659" configVersion="fcf2c0122b92844f814ab4eced4a791e00000000"/>
+		<Metadata name="Document.ПродажаРыб.Form.ФормаДокумента.Form" id="93b7138d-30c6-4bd2-b0eb-3a9993b31659.0" configVersion="b6beeb070d5092448e3adb86e010d37800000000"/>
+		<Metadata name="Document.ПродажаРыб.ObjectModule" id="f24815c6-e411-4b23-b530-6afa4c08f163.0" configVersion="5ffe069b38742e4195a52b9c29b53e5a00000000"/>
+		<Metadata name="Language.Русский" id="bd9aead1-57ee-4059-8d6e-7e7682c4e09e" configVersion="16ad0cdc6797764da9543f9944e7c7f900000000"/>
+		<Metadata name="Report.ПрибыльОтПродаж" id="1e717a4e-45b2-44b9-a6af-ca768ef11fbf" configVersion="34968ab89c8aa84c8cf4364ec33280c300000000"/>
+		<Metadata name="Report.ПрибыльОтПродаж.Template.ОсновнаяСхемаКомпоновкиДанных" id="f6f17fc3-57ca-4eb4-bec4-2c4fb77cd9c1" configVersion="bbe3991442c1fc428b924ad325a31aa900000000"/>
+		<Metadata name="Report.ПрибыльОтПродаж.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="f6f17fc3-57ca-4eb4-bec4-2c4fb77cd9c1.0" configVersion="249a03d1469610428e8e0c68807ef54200000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
